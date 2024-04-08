@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    & #logo {
+        width: 8rem;
+    }
+
+    & form {
+
+        & input{
+            background: rgb(80, 78, 78);
+        }
+    }
+}
+
+#wallpaper {
+    background-repeat: no-repeat;
+    background-size: cover
+}
