@@ -4,15 +4,40 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: "Lexend Deca", sans-serif;
+}
+
 .container {
+    text-align: center;
     & #logo {
         width: 8rem;
     }
 
-    & form {
+    & .form-group {
+        width: 19rem;
 
-        & input{
-            background: rgb(80, 78, 78);
+        & input:placeholder-shown{
+            background-color: rgba(128, 128, 128, 0.086);
+            font-size: 0.7rem;
+            border: none;
+        }
+
+        & input:focus{
+            box-shadow: 0;
+            border: none;
+            outline-style: none;
+            box-shadow: none;
+            background-color: rgba(128, 128, 128, 0.086);
+        } 
+    }
+
+    & button {
+        border: none;
+        padding: 0.2rem 1.4rem 1rem 1rem;
+
+        & img {
+            width: 1.5rem;
         }
     }
 }
