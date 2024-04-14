@@ -126,7 +126,7 @@ body {
 
 .span-move {
     transform: translateY(-95%);
-    margin-top: -0.5rem;
+    margin-top: -0.55rem;
 }
 
 .disabled {
@@ -139,6 +139,7 @@ body {
 
 .active {
     background-color: rgba(255, 0, 0, 0.833);
+    cursor: pointer;
 
     & i {
         color: white;
