@@ -1,10 +1,15 @@
+# Clone do login do jogo League of Legends
 Cópia da tela de login do jogo League of Legends. Este projeto foi feito para colocar em prática efeitos de input.
 
-<h1>Tecnologias utilizadas:</h1>
-*JavaScript <br>
-*Html e CSS <br>
-*Bootstrap
+## :computer:Tecnologias utilizadas:
++ JavaScript 
++ Html e CSS 
++ Bootstrap
 
-Link: https://francine02.github.io/Tela-de-Login---League-of-Legends/
+## :pushpin:Referência:
+[Site oficial para baixar o jogo](https://www.leagueoflegends.com/pt-br/)
+
+## :diamonds:Link para o clone:
+[Login League of Legends](https://francine02.github.io/Tela-de-Login---League-of-Legends/)
 
 <img src="./img/printpng.png">
